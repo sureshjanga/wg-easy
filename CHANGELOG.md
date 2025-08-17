@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add german translations (#1889)
 - feat: Add Traditional Chinese (zh-HK) i18n Support (#1988)
 - Add Chinese Simplified (#1990)
-- Add option to disable ipv6 (#1951)
+Add option to disable ipv6 (#1951)
 
 ### Fixed
 
